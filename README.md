@@ -1,3 +1,6 @@
+![Behzad Qasemi Bio](./bio.svg)
+
+
 # Behzad Qasemi | Researcher & Cybersecurity Enthusiast
 
 Hi, I'm Behzad Qasemi — a researcher and practitioner in the field of cybersecurity
