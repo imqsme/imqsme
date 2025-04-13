@@ -1,18 +1,7 @@
 ![Behzad Qasemi Bio](./bio.svg)
 
 
-# Behzad Qasemi | Researcher & Cybersecurity Enthusiast
-
-Hi, I'm Behzad Qasemi — a researcher and practitioner in the field of cybersecurity
-
-For over a decade, I've been working in areas such as vulnerability assessment, penetration testing, and system security analysis. My interest in cybersecurity started at an early age, and over the years, I've been committed to continuous learning and contributing to various projects to deepen my understanding.
-
-My goal is to help build a safer digital environment and raise awareness about information security. I always strive to both learn and share knowledge with the community.
-
----
-
-
-## 🧰 Languages and Tools I Use Regularly
+## Languages and Tools I Use Regularly
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -32,7 +21,7 @@ My goal is to help build a safer digital environment and raise awareness about i
 
 ---
 
-## 🧨 Offensive Security Tools
+## Offensive Security Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
@@ -50,7 +39,7 @@ My goal is to help build a safer digital environment and raise awareness about i
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imqsme&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
