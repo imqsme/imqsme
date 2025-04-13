@@ -9,7 +9,7 @@
   }
   .subtitle {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 15px;
+    font-size: 20px;
     fill: #909090;
   }
   .text {
