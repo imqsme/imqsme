@@ -1,7 +1,7 @@
 ![Behzad Qasemi Bio](./bio.svg)
 
 
-## Languages and Tools I Use Regularly
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+JetBrains+Mono+&weight=200&size=25&duration=3000&pause=1000&color=747474&repeat=false&width=300&height=65&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -17,13 +17,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-</p>
-
----
-
-## Offensive Security Tools
-
-<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Metasploit-3e8ed0?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Nmap-0080FF?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Nmap"/>
@@ -39,7 +32,7 @@
 
 ---
 
-## GitHub Trophies
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+JetBrains+Mono+&weight=200&size=25&duration=3000&pause=1000&color=747474&repeat=false&width=300&height=65&lines=GitHub+Trophies)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imqsme&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
