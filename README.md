@@ -1,7 +1,7 @@
 ![Behzad Qasemi Bio](./bio.svg)
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+JetBrains+Mono+&weight=200&size=25&duration=3000&pause=1000&color=747474&repeat=false&width=300&height=65&lines=Languages+and+Tools)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
