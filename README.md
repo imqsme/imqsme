@@ -36,4 +36,5 @@
 
 ## Certificate
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Verified%20Credential-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/93631408-161d-4734-abb4-0195ed8faa96/public_url)
+[![NYU Cybersecurity Course](https://img.shields.io/badge/NYU%20Cybersecurity%20Course-Verified%20via%20Coursera-57068C?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/4C2Y3KZ7RGTN)
 
