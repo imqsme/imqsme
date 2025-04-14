@@ -1,5 +1,9 @@
 ![Behzad Qasemi Bio](./bio.svg)
+---
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=GitHub+Trophies)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=imqsme&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
@@ -25,12 +29,6 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 
 </p>
-
----
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&duration=3000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=GitHub+Trophies)](https://git.io/typing-svg)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imqsme&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
